@@ -1,0 +1,42 @@
+[
+    {
+        "job_title": "Software Engineer",
+        "location": "Mumbai",
+        "required_experience":"4 years",
+        "skills":".net, MVC",
+        "description": "Should have hands on experience in .net with MVC",
+        "company":"Accenture" 
+    },
+    {
+        "job_title": "Sr. Software Engineer",
+        "location": "Banagalore",
+        "required_experience":"6 years",
+        "skills":".net, MVC",
+        "description": "Should have hands on experience in .net with MVC and sghould have ability to lead a team",
+        "company":"Accenture" 
+    },
+    {
+        "job_title": "Javascript Developer",
+        "location": "Banagalore",
+        "required_experience":"3 years",
+        "skills":"javascript, HTML, CSS",
+        "description": "Should have good experience in javascript prototype development",
+        "company":"TCS" 
+    },
+    {
+        "job_title": "Angular JS Developer",
+        "location": "Pune",
+        "required_experience":"2 years",
+        "skills":"Typescript, Angular 2, javascript, HTML, CSS",
+        "description": "Should have hands on experience in angular 2, must have knowledge in typescript",
+        "company":"Crimpson Logic" 
+    },
+    {
+        "job_title": "React Js Developer",
+        "location": "Hydrabad",
+        "required_experience":"2 years",
+        "skills":"Typescript, React, javascript, HTML, CSS",
+        "description": "Should have hands on experience in react, must have knowledge in typescript",
+        "company":"Amaris" 
+    }
+]
